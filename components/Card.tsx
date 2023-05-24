@@ -21,8 +21,8 @@ const Card = () => {
 							<MusicalNoteIcon className='w-5 text-desaturatedBlue ' />
 						</div>
 						<div className='flex flex-col space-y-1'>
-							<h5 className='font-black text-darkBlue'>Annual Plan</h5>
-							<h6 className='text-desaturatedBlue'>$59.99/year</h6>
+							<h2 className='font-black text-darkBlue'>Annual Plan</h2>
+							<h3 className='text-desaturatedBlue'>$59.99/year</h3>
 						</div>
 					</div>
 
